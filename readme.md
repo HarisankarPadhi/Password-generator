@@ -33,6 +33,9 @@ password-generator/
 2. Open the `password-generator` folder.
 3. Open `index.html` in your browser.
 
+## 📸 Project Screenshot
+[Password Generator Screenshot](Screenshot.png)
+
 ## Author
 
 **Harisankar Padhi**
